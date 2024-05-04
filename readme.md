@@ -31,9 +31,9 @@ This repository provides implementations of several multi-omic generation models
 ## Model 2
 
 
+## Launch training
 
 For training just run the training notebook  `train_models_1_and_2.ipynb`.
 
 The trained model is store in the `./checkpoint` folder.
 
-## Training report
