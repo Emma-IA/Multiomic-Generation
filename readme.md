@@ -28,8 +28,15 @@ This repository provides implementations of several multi-omic generation models
 
 ## Model 1
 
+<div style="background-color: white; padding: 10px; border-radius: 5px;">
+<img src="model_1.png" alt="Image Description" style="opacity: 0.5; width: 50%;">
+</div>
+
 ## Model 2
 
+<div style="background-color: white; padding: 10px; border-radius: 5px;">
+<img src="model_2.png" alt="Image Description" style="opacity: 0.5; width: 50%;">
+</div>
 
 ## Launch training
 
