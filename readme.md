@@ -1,6 +1,6 @@
 # Multi-omic generation
 
-Collaborative project with research center INSERM aimed at generating omic data while considering other modalities, facilitating comprehensive data analysis and interpretation. Thank you @dlsoltero for providing us with the necessary tools during the project!
+Collaborative project with research center INSERM aimed at generating omic data while considering other modalities, facilitating comprehensive data analysis and interpretation. Thanks to @dlsoltero, @paulvill and Thierry Artieres for providing us with the necessary tools and advices.
 
 ## Installation
 
